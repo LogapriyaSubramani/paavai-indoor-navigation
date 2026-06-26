@@ -1,17 +1,68 @@
-# indoor_nav_app
+# 🧭 Paavai Indoor Navigation App
 
-A new Flutter project.
+A Flutter-based Indoor Navigation Application developed for Paavai Engineering College.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- Interactive Campus Map
+- Indoor Navigation
+- Source & Destination Selection
+- Shortest Path Finding
+- Route Visualization
+- Distance Calculation
+- Walking Time Estimation
+- Zoom In / Zoom Out
+- Current Location Marker
+- Dark Mode Support
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Custom Painter
+- Graph Algorithm
+- VS Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```
+lib/
+ ├── data/
+ ├── models/
+ ├── screens/
+ ├── services/
+ ├── utils/
+ └── widgets/
+```
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/LogapriyaSubramani/paavai-indoor-navigation.git
+
+cd paavai-indoor-navigation
+
+flutter pub get
+
+flutter run
+```
+
+## 🎯 Future Improvements
+
+- Voice Navigation
+- QR Navigation
+- GPS Integration
+- Multi-floor Navigation
+- Real-time Indoor Tracking
+
+## 👩‍💻 Developer
+
+**Logapriya Subramani**
+
+B.Tech Artificial Intelligence & Machine Learning
+
+Paavai Engineering College
+
+## ⭐ GitHub Repository
+
+If you like this project, please give it a ⭐.
