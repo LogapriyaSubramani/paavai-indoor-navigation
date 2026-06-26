@@ -66,4 +66,5 @@ Paavai Engineering College
 ## ⭐ GitHub Repository
 
 If you like this project, please give it a ⭐.
-up
+<img width="1911" height="910" alt="Screenshot 2026-06-26 205037" src="https://github.com/user-attachments/assets/a64a5d0a-040c-4c2f-a194-730d0ca1d115" />
+
